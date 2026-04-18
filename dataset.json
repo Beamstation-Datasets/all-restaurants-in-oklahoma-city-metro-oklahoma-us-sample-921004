@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant census for the Oklahoma City metropolitan area in Oklahoma. Filtered by the Restaurants category group, covers the state capital's dining market with verified business profiles, ratings, review sentiment, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Oklahoma City (Metro), Oklahoma, US",
-  "export_job_id": "cd661c6c-bb34-49dd-9d9e-12d1e4ccfcd3",
+  "export_job_id": "f324b725-f1aa-4d00-8456-c4f19a281a24",
   "github_org": "Beamstation-Datasets",
   "id_short": 921004,
   "location_name": "Oklahoma City, OK",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-oklahoma-city-metro-oklahoma-us-sample-921004",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/921004/beamstation_921004_restaurants-us-oklahomacityok_SAMPLE_DIST.csv",
-  "sample_pct": 9.89,
+  "sample_pct": 9.98,
   "sample_records": 377,
   "sample_sha256": "feb8f316df5075a1458d6bee6d6a402a0814a37c9edaece436dea1518e3df8a0",
   "sample_size_bytes": 1341040,
-  "total_records": 3813,
-  "updated_at": "2026-04-07T10:49:53.336806+00:00"
+  "total_records": 3778,
+  "updated_at": "2026-04-14T10:49:43.654035+00:00"
 }
