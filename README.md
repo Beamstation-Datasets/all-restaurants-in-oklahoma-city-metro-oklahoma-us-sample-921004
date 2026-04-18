@@ -9,9 +9,9 @@
 | Dataset ID | `921004` |
 | Location | Oklahoma City, OK |
 | Category | Restaurants |
-| Full dataset size | 3,813 records |
-| Free sample size | 377 records (9.89%) |
-| Last export | 2026-04-07T10:49:53.336806+00:00 |
+| Full dataset size | 3,778 records |
+| Free sample size | 377 records (9.98%) |
+| Last export | 2026-04-14T10:49:43.654035+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oklahoma-city-metro-oklahoma-us-sample-921004/releases/download/sample-latest/beamstation_921004_restaurants-us-oklahomacityok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
