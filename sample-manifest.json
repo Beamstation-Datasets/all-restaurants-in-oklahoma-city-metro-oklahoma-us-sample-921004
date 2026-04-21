@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f324b725-f1aa-4d00-8456-c4f19a281a24",
+  "export_job_id": "3eea5ea0-e0bc-4cf4-8440-f52874b8c66b",
   "id_short": 921004,
-  "published_at": "2026-04-18T07:14:02Z",
+  "published_at": "2026-04-21T19:58:21Z",
   "repo_name": "all-restaurants-in-oklahoma-city-metro-oklahoma-us-sample-921004",
   "sample_asset_name": "beamstation_921004_restaurants-us-oklahomacityok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/921004/beamstation_921004_restaurants-us-oklahomacityok_SAMPLE_DIST.csv",
-  "sample_records": 377,
-  "sample_sha256": "feb8f316df5075a1458d6bee6d6a402a0814a37c9edaece436dea1518e3df8a0",
-  "sample_size_bytes": 1341040,
-  "total_records": 3778
+  "sample_records": 235,
+  "sample_sha256": "c1be43427afd748405c5d2224c0d5df9d6cb79fe8fbeb9c81361cc894d21afa8",
+  "sample_size_bytes": 853869,
+  "total_records": 2359
 }
